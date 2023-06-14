@@ -10,4 +10,4 @@ airbyte_dbt:
       user: postgres
       pass: postgres
       dbname: PostgresTB1
-      schema: marketing
+      schema: public

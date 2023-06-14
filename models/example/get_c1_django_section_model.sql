@@ -1,0 +1,1 @@
+select * from sample_ad_base_djang__ons_tblrpqnwpwunnecpo where section_name = 'Week 1'
